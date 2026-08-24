@@ -8,25 +8,11 @@ To implement the **SARSA control algorithm** using the Gymnasium `FrozenLake-v1`
 
 ## Problem Statement
 
-The objective of this experiment is to train an agent in the Gymnasium `FrozenLake-v1` environment using the SARSA algorithm.
 
-The agent must learn:
-
-1. How to interact with the FrozenLake environment.
-2. How to select actions using an epsilon-greedy policy.
-3. How to update the Q-table using the SARSA update rule.
-4. How to derive the learned policy from the Q-table.
-5. How to evaluate the performance of the learned policy.
-
----
 
 ## Software Requirements
 
-```bash
-pip install gymnasium numpy matplotlib
-```
 
----
 
 ## Environment Description
 
